@@ -21,7 +21,7 @@ Para probar cada patrón, sigue estos pasos:
 1. Ingresa a la carpeta correspondiente al patrón que deseas probar.
 2. Ejecuta el archivo Main.py dentro de esa carpeta.
 
-¡Disfruta explorando y probando estos patrones de diseño en Python!
+
 
 ## Creador
 
